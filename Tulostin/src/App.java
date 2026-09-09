@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         //Tekijän nimeksi asetetaan Roope
-        String tekija = "Roope";
+        String tekija = "Roope Vilkman";
         //Asetetaan arvot luvuille 1 ja 2.
         double luku1 = 5;
         double luku2 = 2;
