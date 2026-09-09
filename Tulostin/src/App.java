@@ -18,12 +18,13 @@ public class App {
 
         
         //Tulostetaan tekstiä
-        System.out.println("Hei olen Tulostin-ohjelma");
+        System.out.println("Hei olen Tulostin-ohjelma. Tervetuloa ihailemaan sitä kun teksitä tulostuu näytölle :D");
         System.out.print("Ohjelman tekijä:");
         System.out.println(" " + tekija);
         
 
         //Tulostetaan luvut 1 ja 2 sekä niiden laskujen tulokset
+        System.out.println("Tehdäänpä nyt muutama pikainen laskutoimoitus :)");
         System.out.println("Luku1-muuttujan arvo on: " + luku1);
         System.out.println("Luku2-muuttujan arvo on: " + luku2);
         System.out.println(luku1 + " "+ "*" + " " + luku2 + " "+"=" + " " + tulo);
